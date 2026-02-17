@@ -6,7 +6,7 @@
 ##**this semister**
 i want to*learn***coding**and how to~create an app~` ux deign 
 |tools|purpose|links|
-|-------------------|
+|-----|-------|-----|
 |git  |code.  |git.i|
 |vsc  |code   |vsc. |
 -[×] markdown practice 
