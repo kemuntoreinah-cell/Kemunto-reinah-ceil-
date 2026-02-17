@@ -15,3 +15,8 @@ https://kemunto-reinah-ceil.com
 https://github.com/carden Dante/ github.io.com
 > the mountain is you
 "i am a book wormer currently reading black friday i love dancing and writting"
+| tool    | purpos    | limks    |
+|---------|-----------|----------|
+| git.    | app.      | git.com  |
+| vsc     | code.     | vsc.com. |  
+| java    | format.   | node.js. |
