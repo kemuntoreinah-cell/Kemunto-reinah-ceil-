@@ -1,4 +1,4 @@
-# Kemunto-reinah-cell-
+ # Kemunto-reinah-cell-
  Hi, I'm [Kemunto reinah]
 
 ## About Me
@@ -11,7 +11,7 @@
 - [Add others, "java", "HTML/CSS", "Machine Learning"]
 
 ## Current Projects
-- [kemunto-reinah-cell](https://Kemunto-reinah-cell) — short description
+- [kemuntoreinah-cell](https://Kemuntoreinah-cell) — short description
 its a project about my intrest and goalsand what i want to study futher
 ## How to Reach Me
 - Email: @[kemuntoreinah@gmail.com]
