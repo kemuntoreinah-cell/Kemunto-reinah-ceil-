@@ -9,10 +9,11 @@ i want to*learn***coding**and how to~create an app~` ux deign
 |-----|-------|-----|
 |git  |code.  |git.i|
 |vsc  |code   |vsc. |
--[×] markdown practice 
--[ ]vscode practice 
-https://kemunto-reinah-ceil.com
-https://github.com/carden Dante/ github.io.com
+- [x] markdown practice 
+- [x] vscode practice
+
+https://kemunto-reinah-cell
+https://github.com/carden-Dante/github.io.com
 > the mountain is you
 "i am a book wormer currently reading black friday i love dancing and writting"
 | tool    | purpos    | limks    |
