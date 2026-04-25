@@ -1,9 +1,9 @@
-#**mylearninggoals**
+# **mylearninggoals**
 - coding 
-  -java
-  -python
--ux design
-##**this semister**
+  - java
+  - python
+- ux design
+## **this semister**
 i want to*learn***coding**and how to~create an app~` ux deign
 
 | tools| purpose| links|
